@@ -7,7 +7,7 @@ I'm a third-year student at King Mongkut's University of Technology Thonburi (KM
 I've dedicated two years to studying Python, JavaScript, and HTML, and I'm eager to expand my expertise by delving into new programming languages.
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [laspizorklaznm@gmail.com](mailto:laspizorklaznm@gmail.com)
+* ✉️  You can contact me at [nattakitpras.work@gmail.com](mailto:nattakitpras.work@gmail.com)
 * 🧠  I'm learning Advanced Python and Machine Learning
 * 🤝  I'm open to collaborating on new interesting project / competition
 
